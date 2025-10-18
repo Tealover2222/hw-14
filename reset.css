@@ -1,0 +1,71 @@
+.logo {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1;
+}
+.nav-list {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+}
+.contacts {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+}
+.phone {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+}
+.herro {
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.3;
+}
+.btn {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.8;
+}
+.meaw {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1;
+}
+.meaww {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+}
+.herrro {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1;
+}
+.team-member {
+  font-family: Roboto ;
+  font-weight: 500 bold;
+  font-size: 16px;
+  line-height: 1;
+}
+.teamm-member {
+  font-family: Roboto ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}
+.idk {
+  font-family: Roboto ;
+  font-weight: 400;
+  font-size: 14px; 
+  line-height: 1.7;
+}
